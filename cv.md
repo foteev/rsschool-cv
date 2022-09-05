@@ -23,7 +23,7 @@ const me = {
       "HTML&CSS Basics by HTML Academy"
     ],
     
-    workExpirience: {
+    workExperience: {
       "2019-2022": "Web Programmer & System Administrator @ Palletport ltd., Poland",
       "2008-2018": "ServiceDesk Team Lead @ KG ltd., Russia"
     },
@@ -65,13 +65,9 @@ const me = {
     },
     
     codeExample: function getCount(str) {
-    
         result = str.match(/["a","e","i","o","u"]/g) || []
-    
         let sum = Object.keys(result).length
-    
         return(sum)
-    
         } // https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/javascript
 }
 ```
