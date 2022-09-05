@@ -1,13 +1,21 @@
+<<<<<<< HEAD
 # Andrey Foteyev
 
 ![foto](https://user-images.githubusercontent.com/18679908/188491699-c513156d-243b-4031-8182-f0fc16130f9e.png)
 
 ```
+=======
+//Andrey Foteyev
+
+>>>>>>> f6f1058 (feat: update cv.md file)
 const me = {
     firstName: "Andrey",
     lastName: "Foteyev",
     profession: "Web Developer",
+<<<<<<< HEAD
     
+=======
+>>>>>>> f6f1058 (feat: update cv.md file)
     contacts: {
       phoneNumber: "+48666996367", 
       email: "foteev@gmail.com", 
@@ -15,38 +23,57 @@ const me = {
       github: "https://github.com/foteev",
       discord: "Andrey Foteyev (@foteev)"
     },
+<<<<<<< HEAD
     
+=======
+>>>>>>> f6f1058 (feat: update cv.md file)
     education: [
       "Cadence Bootcamp by Emerald DAO",
       "Algorithms and Data Structures by CSC",
       "JS Absolute Beginner's Guide by Kirupa Chinnathambi",
       "HTML&CSS Basics by HTML Academy"
     ],
+<<<<<<< HEAD
     
     workExperience: {
       "2019-2022": "Web Programmer & System Administrator @ Palletport ltd., Poland",
       "2008-2018": "ServiceDesk Team Lead @ KG ltd., Russia"
     },
     
+=======
+    workExpirience: {
+      "2019-2022": "Web Programmer & System Administrator @ Palletport ltd., Poland",
+      "2008-2018": "ServiceDesk Team Lead @ KG ltd., Russia"
+    },
+>>>>>>> f6f1058 (feat: update cv.md file)
     skills: {
       programmingLanguages: [
         "HTML",
         "CSS",
         "JavaScript"
       ],
+<<<<<<< HEAD
       
+=======
+>>>>>>> f6f1058 (feat: update cv.md file)
       databases: [
         "MongoDB",
         "PostgreSQL",
         "MariaBD"
       ],
+<<<<<<< HEAD
       
+=======
+>>>>>>> f6f1058 (feat: update cv.md file)
       operatingSystems: [
         "MS Windows Server",
         "Redhat/CentOS",
         "Debian/Ubuntu"
       ],
+<<<<<<< HEAD
       
+=======
+>>>>>>> f6f1058 (feat: update cv.md file)
       tools: [
         "Git",
         "Jira",
@@ -55,7 +82,10 @@ const me = {
         "Nginx",
         "Docker"
       ],
+<<<<<<< HEAD
       
+=======
+>>>>>>> f6f1058 (feat: update cv.md file)
       languageLevels: {
         "German": "A0",
         "English": "B1",
@@ -63,6 +93,7 @@ const me = {
         "Russian": "C2"
       },
     },
+<<<<<<< HEAD
     
     codeExample: function getCount(str) {
         result = str.match(/["a","e","i","o","u"]/g) || []
@@ -71,3 +102,15 @@ const me = {
         } // https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/javascript
 }
 ```
+=======
+    codeExample: function getCount(str) {
+    
+        result = str.match(/["a","e","i","o","u"]/g) || []
+    
+        let sum = Object.keys(result).length
+    
+        return(sum)
+    
+        } // https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/javascript
+}
+>>>>>>> f6f1058 (feat: update cv.md file)
