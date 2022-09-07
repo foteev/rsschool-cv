@@ -1,2 +1,1 @@
-https://foteev.github.io/rsschool-cv/
- 
+# rsschool-cv
