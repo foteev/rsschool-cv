@@ -3,6 +3,7 @@
 ![foto](https://user-images.githubusercontent.com/18679908/188491699-c513156d-243b-4031-8182-f0fc16130f9e.png)
 
 ```
+
 const me = {
     firstName: "Andrey",
     lastName: "Foteyev",
